@@ -1,4 +1,5 @@
-🦁  Leotype - A Fast & Agile Typing Game
+# **🦁  Leotype - A Fast & Agile Typing Game**
+
 Leotype is a lightweight and fast typing game, inspired by the speed and precision of a leopard. Built with HTML, CSS, and JavaScript, it helps you improve your typing speed and accuracy in a fun and minimalistic way.
 
 🚀 Features
