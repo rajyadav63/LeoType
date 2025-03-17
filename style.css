@@ -6,17 +6,34 @@
     box-sizing: border-box;
 }
 
+:root{
+    --bgColor: #333;
+    --textPrimary: #fff;
+    --textSecondary: #666;
+    --primaryColor: #fd4;
+}
+
 body{
     font-family: "Open Sans", serif;
     font-optical-sizing: auto;
     font-style: normal;
     background-color: #141934;
     color: #ffffff;
+    height: 100vh;
 }
 header{
     display: flex;
     text-align: center;
     justify-content: start;
     align-items: center;
+    background-color: #11162f;
     color: #84ac33;
+}
+header img{
+    margin: 10px 12px 0 40px;
+}
+
+main{
+    max-width: 700px;
+    margin: 43px auto;
 }
